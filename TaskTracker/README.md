@@ -1,6 +1,6 @@
-# TraversyTutorial
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
+# TaskTracker
+Simple site to keep track of your to-do activities.
+It is possible to graphically mark the completion of the task, add new ones or delete those already done
 
 ## Development server
 
